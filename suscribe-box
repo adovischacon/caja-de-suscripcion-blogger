@@ -1,0 +1,12 @@
+<div id='subscribe-box'>
+<h4>ESCRIBE TU TÍTULO AQUÍ</h4>
+<div class='emailfield'>
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&apos;http://feedburner.google.com/fb/a/mailverify?uri=topblogdinero&apos;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=550,height=520&apos;);return true' target='popupwindow'>
+<input name='email' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Alamat Email&quot;;}' onfocus='if (this.value == &quot;Alamat Email&quot;) {this.value = &quot;&quot;;}' type='text' value='Tu Email Aquí'/>
+<input name='uri' type='hidden' value='TopBlogDinero'/>
+<input name='loc' type='hidden' value='en_US'/>
+<input class='submitbutton' type='submit' value='SUSCRIBIRME'/>
+</form>
+</div>
+</div>
+<div style='clear:both;'/></div>
